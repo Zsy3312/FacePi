@@ -8,18 +8,16 @@
 ![Image text](https://raw.githubusercontent.com/Zsy3312/resource/master/after.jpg)
 
 光照处理前
-![Image text](https://raw.githubusercontent.com/Zsy3312/resource/master/before1.jpg)
+![Image text](https://raw.githubusercontent.com/Zsy3312/resource/master/before2.jpg)
 光照处理后
-![Image text](https://raw.githubusercontent.com/Zsy3312/resource/master/after1.jpg)
+![Image text](https://raw.githubusercontent.com/Zsy3312/resource/master/after2.jpg)
 
 # 树莓派移植
 移植到了树莓派上，使用了一个RGB三色灯，来表示当前状态
 识别不到人脸不亮灯，识别到人脸亮绿灯，识别到闭眼亮红灯，识别到打哈欠亮蓝灯
 
-![Image text](https://raw.githubusercontent.com/Zsy3312/resource/master/notfound.jpg)
-![Image text](https://raw.githubusercontent.com/Zsy3312/resource/master/normal.jpg)
-![Image text](https://raw.githubusercontent.com/Zsy3312/resource/master/close.jpg)
-![Image text](https://raw.githubusercontent.com/Zsy3312/resource/master/mouth.jpg)
+![Image text](https://raw.githubusercontent.com/Zsy3312/resource/master/notfound.png)
+![Image text](https://raw.githubusercontent.com/Zsy3312/resource/master/normal.png)
+![Image text](https://raw.githubusercontent.com/Zsy3312/resource/master/close.png)
+![Image text](https://raw.githubusercontent.com/Zsy3312/resource/master/mouth.png)
 
-
-[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://raw.githubusercontent.com/Zsy3312/resource/master/dark.mp4)
